@@ -7,4 +7,4 @@ We want to you to create a set of presentation slides summarizing your project.
 ## Submission Instructions
 
 ### Presentation
-Upload a .PDF of your presentation here for review.
+Upload a .PDF of your presentation here for review.[Forget-Me-Not Project Presentation Template.pdf](https://github.com/sssangeetha494/liftoff-assignments/files/7199464/Forget-Me-Not.Project.Presentation.Template.pdf)
